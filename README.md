@@ -1,4 +1,4 @@
-# NBA Game Result Prediction
+# NBA Stats Transformer: Game Insights with Deep Learning
 
 Short Introduction:
 
