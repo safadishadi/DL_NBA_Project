@@ -3,7 +3,6 @@
 ## Overview:
 This project is focused on analyzing historical NBA game data to enhance predictive modeling and performance analytics. The goal is to collect, preprocess, and augment game statistics with additional information, enabling comprehensive analysis and accurate predictions.
 
---graph of the model prediction accuracy, maybe with some NBA related photo--
 
 ## Project Description:
 This project delves into the realm of NBA game analysis by harnessing the power of data analytics and machine learning to predict game outcomes and enhance sports analytics. By integrating the NBA API, it systematically fetches and processes game statistics for all teams, focusing on the most recent games to ensure the relevance and manageability of the data. The data undergoes rigorous cleaning and preprocessing, which includes adding crucial features such as opponent stats to enrich the dataset. This comprehensive dataset forms the backbone of the project, allowing for a holistic view of each game by including statistics from both teams involved.
