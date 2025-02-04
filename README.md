@@ -1,4 +1,4 @@
-# NBA Game Result Prediction
+# NBA Stats Transformer: Game Insights with Deep Learning
 
 Short Introduction:
 
@@ -19,6 +19,7 @@ References:
 License (if exist):
 
 Authors:
+*  Idan Bsaon
+*  Shadi Safadi
 
-* Idan Bsaon
-* Shadi Safadi
+
